@@ -16,13 +16,13 @@ This is a simple MERN stack application that displays current prices of cryptocu
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/labs-web3/CryptoView.git
+   git clone https://github.com/chain-city-518/crypto-view.git
    ```
 
 2. **Install Dependencies:**
 
    ```bash
-   cd CryptoView
+   cd crypto-view
    npm install
    ```
 
